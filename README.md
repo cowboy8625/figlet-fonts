@@ -4,11 +4,15 @@
 ╹  ╹┗━┛┗━╸┗━╸ ╹    ╹  ┗━┛╹ ╹ ╹ ┗━┛
 ```
 
-my collection of ascii art fonts for [figlet](http://www.figlet.org/) or [toilet](http://caca.zoy.org/wiki/toilet). 
+My collection of ascii art fonts for [figlet](http://www.figlet.org/) or [toilet](http://caca.zoy.org/wiki/toilet). 
 
-install files to `/usr/share/figlet/` or `/usr/share/figlet/fonts/`.
+Install files to `/usr/share/figlet/` or `/usr/share/figlet/fonts/`.
 
-#### Installing
+### Installing
 
 To install fonts simply run `sudo ./install`
 
+### Reasons for Cloning
+
+
+I cloned this repo to update it do to the owner not taking any PR's for the original.
