@@ -8,3 +8,7 @@ my collection of ascii art fonts for [figlet](http://www.figlet.org/) or [toilet
 
 install files to `/usr/share/figlet/` or `/usr/share/figlet/fonts/`.
 
+#### Installing
+
+To install fonts simply run `sudo ./install`
+
